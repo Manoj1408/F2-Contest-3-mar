@@ -1,0 +1,177 @@
+[
+  {
+    "title": " nsarrazin / serge",
+    "description": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
+    "url": "https://github.com/nsarrazin/serge",
+    "stars": "1,752",
+    "forks": "1,752"
+  },
+  {
+    "title": " madawei2699 / myGPTReader",
+    "description": "myGPTReader is a slack bot that can read any webpage, ebook or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.",
+    "url": "https://github.com/madawei2699/myGPTReader",
+    "stars": "1,982",
+    "forks": "1,982"
+  },
+  {
+    "title": " mrsked / mrsk",
+    "description": "Deploy web apps anywhere.",
+    "url": "https://github.com/mrsked/mrsk",
+    "stars": "4,484",
+    "forks": "4,484"
+  },
+  {
+    "title": " programthink / zhao",
+    "description": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "url": "https://github.com/programthink/zhao",
+    "stars": "11,744",
+    "forks": "11,744"
+  },
+  {
+    "title": " BlinkDL / RWKV-LM",
+    "description": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, \"infinite\" ctx_len, and free sentence embedding.",
+    "url": "https://github.com/BlinkDL/RWKV-LM",
+    "stars": "3,678",
+    "forks": "3,678"
+  },
+  {
+    "title": " mckaywrigley / chatbot-ui",
+    "description": "A ChatGPT clone for running locally in your browser.",
+    "url": "https://github.com/mckaywrigley/chatbot-ui",
+    "stars": "3,597",
+    "forks": "3,597"
+  },
+  {
+    "title": " LC1332 / Chinese-alpaca-lora",
+    "description": "骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技",
+    "url": "https://github.com/LC1332/Chinese-alpaca-lora",
+    "stars": "567",
+    "forks": "567"
+  },
+  {
+    "title": " dragonflydb / dragonfly",
+    "description": "A modern replacement for Redis and Memcached",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "stars": "17,934",
+    "forks": "17,934"
+  },
+  {
+    "title": " LianjiaTech / BELLE",
+    "description": "BELLE: BE Large Language model Engine（开源中文对话大模型）",
+    "url": "https://github.com/LianjiaTech/BELLE",
+    "stars": "1,817",
+    "forks": "1,817"
+  },
+  {
+    "title": " codebdy / rxdrag",
+    "description": "Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计",
+    "url": "https://github.com/codebdy/rxdrag",
+    "stars": "2,236",
+    "forks": "2,236"
+  },
+  {
+    "title": " Leizhenpeng / feishu-chatgpt",
+    "description": "🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
+    "url": "https://github.com/Leizhenpeng/feishu-chatgpt",
+    "stars": "1,892",
+    "forks": "1,892"
+  },
+  {
+    "title": " fauxpilot / fauxpilot",
+    "description": "FauxPilot - an open-source GitHub Copilot server",
+    "url": "https://github.com/fauxpilot/fauxpilot",
+    "stars": "9,750",
+    "forks": "9,750"
+  },
+  {
+    "title": " deep-diver / Alpaca-LoRA-Serve",
+    "description": "Alpaca-LoRA as Chatbot service",
+    "url": "https://github.com/deep-diver/Alpaca-LoRA-Serve",
+    "stars": "944",
+    "forks": "944"
+  },
+  {
+    "title": " typst / typst",
+    "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "url": "https://github.com/typst/typst",
+    "stars": "9,449",
+    "forks": "9,449"
+  },
+  {
+    "title": " programthink / books",
+    "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）",
+    "url": "https://github.com/programthink/books",
+    "stars": "14,923",
+    "forks": "2,931"
+  },
+  {
+    "title": " GaiZhenbiao / ChuanhuChatGPT",
+    "description": "GUI for ChatGPT API",
+    "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
+    "stars": "5,716",
+    "forks": "5,716"
+  },
+  {
+    "title": " NVIDIAGameWorks / Path-Tracing-SDK",
+    "description": "Real-time path tracing library and sample",
+    "url": "https://github.com/NVIDIAGameWorks/Path-Tracing-SDK",
+    "stars": "377",
+    "forks": "377"
+  },
+  {
+    "title": " evanw / thumbhash",
+    "description": "A very compact representation of an image placeholder",
+    "url": "https://github.com/evanw/thumbhash",
+    "stars": "1,738",
+    "forks": "1,738"
+  },
+  {
+    "title": " mayooear / gpt4-pdf-chatbot-langchain",
+    "description": "GPT4 & LangChain Chatbot for large PDF docs",
+    "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
+    "stars": "2,608",
+    "forks": "2,608"
+  },
+  {
+    "title": " ddobokki / chatgpt_stock_report",
+    "description": "그날의 증권사 리포트를 챗 gpt를 활용해 요약하는 레포",
+    "url": "https://github.com/ddobokki/chatgpt_stock_report",
+    "stars": "146",
+    "forks": "146"
+  },
+  {
+    "title": " BloopAI / bloop",
+    "description": "bloop is a fast code search engine written in Rust.",
+    "url": "https://github.com/BloopAI/bloop",
+    "stars": "2,821",
+    "forks": "2,821"
+  },
+  {
+    "title": " BlinkDL / ChatRWKV",
+    "description": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "stars": "4,208",
+    "forks": "4,208"
+  },
+  {
+    "title": " lukasHoel / text2room",
+    "description": "Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models.",
+    "url": "https://github.com/lukasHoel/text2room",
+    "stars": "407",
+    "forks": "407"
+  },
+  {
+    "title": " labmlai / annotated_deep_learning_paper_implementations",
+    "description": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "stars": "18,541",
+    "forks": "18,541"
+  },
+  {
+    "title": " PlexPt / awesome-chatgpt-prompts-zh",
+    "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "stars": "21,150",
+    "forks": "6,480"
+  }
+]
